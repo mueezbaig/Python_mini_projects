@@ -28,8 +28,8 @@ This Python program implements a simple command-line version of the classic Mine
 ## How to Run
 
 1. Ensure you have Python installed on your system.
-2. Clone or download the `minesweeper.py` file.
-3. Run the script using Python by executing `python minesweeper.py` in your terminal.
+2. Clone or download the `main.py` file.
+3. Run the script using Python by executing `python3 main.py` in your terminal.
 
 ## Contributors
 
