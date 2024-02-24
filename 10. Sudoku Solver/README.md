@@ -21,7 +21,7 @@ This Python program is designed to solve Sudoku puzzles using a backtracking alg
 To use this program, simply run the Python script. Ensure that you have Python installed on your system. You can modify the `example_board` variable to solve different Sudoku puzzles.
 
 ```python
-python sudoku_solver.py
+python main.py
 ```
 ## Contributing:
 
