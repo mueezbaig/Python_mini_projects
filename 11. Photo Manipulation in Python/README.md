@@ -1,4 +1,4 @@
-# PYPHOTOSHOP
+# Photo Manipulation in Python
 
 This Python script provides a collection of image processing functions. These functions allow users to perform various operations on images such as adjusting brightness, contrast, applying blurs, and detecting edges using kernels like Sobel.
 
