@@ -22,5 +22,5 @@ This Python program is a guessing game where the computer tries to guess a numbe
 ## How to Run
 
 1. Make sure you have Python installed on your system.
-2. Copy the code provided into a Python file (e.g., `computer_guess.py`).
-3. Run the Python file in your terminal or command prompt by typing `python computer_guess.py` and hitting Enter.
+2. Copy the code provided into a Python file (e.g., `main.py`).
+3. Run the Python file in your terminal or command prompt by typing `python main.py` and hitting Enter.
