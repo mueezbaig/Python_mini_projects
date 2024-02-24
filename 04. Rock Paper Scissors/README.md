@@ -16,8 +16,8 @@ This is a simple Python implementation of the classic Rock, Paper, Scissors game
 ## How to Run
 
 1. Make sure you have Python installed on your system.
-2. Copy the code provided into a Python file (e.g., `rock_paper_scissors.py`).
-3. Run the Python file in your terminal or command prompt by typing `python rock_paper_scissors.py` and hitting Enter.
+2. Copy the code provided into a Python file (e.g., `main.py`).
+3. Run the Python file in your terminal or command prompt by typing `python main.py` and hitting Enter.
 
 ## Code Explanation
 
