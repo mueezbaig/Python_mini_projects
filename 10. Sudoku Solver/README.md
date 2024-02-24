@@ -22,7 +22,7 @@ To use this program, simply run the Python script. Ensure that you have Python i
 
 ```python
 python sudoku_solver.py
-
+```
 ## Contributing:
 
 Contributions to this project are welcome! If you have any suggestions for improvements or bug fixes, feel free to open an issue or submit a pull request.
