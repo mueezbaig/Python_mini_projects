@@ -56,7 +56,7 @@ This Python script provides a collection of image processing functions. These fu
 #### Combined Sobel X and Sobel Y
 
 ##### Combined Sobel X and Sobel Y Edge Detection
-![Combined Sobel X and Sobel Y Edge Detection]([edge_xy.png](https://github.com/mueezbaig/Python_mini_projects/blob/main/11.%20Photo%20Manipulation%20in%20Python/output/edge_xy.png))
+![Combined Sobel X and Sobel Y Edge Detection](https://github.com/mueezbaig/Python_mini_projects/blob/main/11.%20Photo%20Manipulation%20in%20Python/output/edge_xy.png)
 
 ## Contributing
 
