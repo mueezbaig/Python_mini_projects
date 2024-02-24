@@ -15,7 +15,7 @@ Tic Tac Toe is a classic two-player game where players take turns marking spaces
 ## How to Play
 
 1. Run the `player.py` file to initialize the player classes.
-2. Run the `gane.py` file to start a game of Tic Tac Toe.
+2. Run the `game.py` file to start a game of Tic Tac Toe.
 3. Enter moves according to the prompt (for HumanPlayer) or watch the computer make random moves (for RandomComputerPlayer).
 4. The game will continue until a player wins or the board is full (resulting in a tie).
 
